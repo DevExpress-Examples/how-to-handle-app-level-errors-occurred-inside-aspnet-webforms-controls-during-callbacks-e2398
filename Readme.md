@@ -1,3 +1,13 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Default.aspx](./CS/CallbackErrorEvent/Default.aspx) (VB: [Default.aspx.vb](./VB/CallbackErrorEvent/Default.aspx.vb))
+* [Default.aspx.cs](./CS/CallbackErrorEvent/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/CallbackErrorEvent/Default.aspx.vb))
+* [ErrorPage.aspx](./CS/CallbackErrorEvent/ErrorPage.aspx) (VB: [ErrorPage.aspx](./VB/CallbackErrorEvent/ErrorPage.aspx))
+* [ErrorPage.aspx.cs](./CS/CallbackErrorEvent/ErrorPage.aspx.cs) (VB: [ErrorPage.aspx](./VB/CallbackErrorEvent/ErrorPage.aspx))
+* [Global.asax](./CS/CallbackErrorEvent/Global.asax) (VB: [Global.asax](./VB/CallbackErrorEvent/Global.asax))
+* [Web.config](./CS/CallbackErrorEvent/Web.config)
+<!-- default file list end -->
 # How to handle app level errors occurred inside ASP.NET WebForms controls during callbacks
 
 
